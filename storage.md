@@ -403,7 +403,3 @@ D. Increase ExpressRoute bandwidth temporarily
 4. **Memorize the minimum-day thresholds** for Cool (30), Cold (90), and Archive (180) tiers — these show up in early-deletion-penalty style questions.
 5. **Practice reading multi-constraint questions** (e.g., cost + compliance + region) and eliminate answers that violate any single constraint first.
 6. **Use Microsoft Learn's official AZ-104 learning path** and the free **Microsoft Learn sandbox** labs to reinforce hands-on skills alongside this guide.
-
----
-
-*Good luck with your AZ-104 prep! If you'd like, I can also generate a similar guide for the other AZ-104 domains (Identity/Governance, Compute, Networking, Monitoring/Backup) or build a set of interactive practice-quiz flashcards.*
